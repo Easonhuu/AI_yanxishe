@@ -1,1 +1,2 @@
 英文文本语义相似度/data/best-model.pth filter=lfs diff=lfs merge=lfs -text
+英文文本语义相似度/pretrained_model/roberta-base/roberta-base-pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
