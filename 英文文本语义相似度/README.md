@@ -1,6 +1,6 @@
 [比赛链接](https://god.yanxishe.com/53)
 &nbsp;|model|折数|epochs|数据增强|result(%)
-:--:|:--:|:--:|:--:|:--:|
+:--:|:--:|:--:|:--:|:--:|:--:|
 1|roberta-base|0|30|无|85.67
 2|roberta-base|5|10|无|83.87
 3|roberta-base|5|30|无|85.81
