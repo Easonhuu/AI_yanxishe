@@ -1,5 +1,9 @@
 [比赛链接](https://god.yanxishe.com/53)
-&nbsp;|Accession_Code|Recommended Name|EC Number|Organism|Source|No of amino acids|Sequence
-:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-1|P15807|NaN|1|Saccharomyces cerevisiae (strain ATCC 204508 / S288c)|Swiss-Prot|274|MVKSLQLAHQLKDKKILLIGGGEVGLTRLYKLI...
-2|Q5SRE7|NaN|1|Homo sapiens|Swiss-Prot|291|MACLSPSQLQKFQQDGFLVLEGFLSAEECVAMQQRI...
+&nbsp;|model|折数|epochs|数据增强|result(%)
+:--:|:--:|:--:|:--:|:--:|
+1|roberta-base|0|30|无|85.67
+2|roberta-base|5|10|无|83.87
+3|roberta-base|5|30|无|85.81
+4|roberta-large|5|10|无|89.87
+5|roberta-base|5|10|有|88.42
+6|roberta-large|5|10|有|90.17
